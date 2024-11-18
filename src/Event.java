@@ -26,5 +26,5 @@ public abstract class Event {
     public int compareTo(Event o) {
         return this.dateTime.compareTo(o.getDateTime());
     }
-    //Adding a random comment to see if this works
+    //Changing this random comment to see if this works
 }
